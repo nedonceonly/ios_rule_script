@@ -4,7 +4,7 @@
 # UPDATED: 2024-07-03 16:18:30
 # DOMAIN: 20
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 26
+# DOMAIN-SUFFIX: 30
 # IP-ASN: 2
 # IP-CIDR: 2
 # TOTAL: 51
@@ -55,6 +55,11 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,turn.livekit.cloud
 DOMAIN-KEYWORD,openaicom-api
+# Github Copilot
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,default.exp-tas.com
+DOMAIN-SUFFIX,githubcopilot.com
 IP-CIDR,24.199.123.28/32,no-resolve
 IP-CIDR,64.23.132.171/32,no-resolve
 IP-ASN,14061,no-resolve
